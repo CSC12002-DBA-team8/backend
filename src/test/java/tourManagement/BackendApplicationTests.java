@@ -1,4 +1,4 @@
-package system.backend;
+package tourManagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
